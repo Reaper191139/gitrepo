@@ -1,0 +1,15 @@
+.blog{
+ 
+    background-color: rgb(238, 206, 167);
+    border: 7px rgb(242, 166, 238) solid;
+    border-radius: 5px;
+    margin: 50px 50px 100px ;
+    padding: 50px 100px;
+    text-align: justify;
+    box-shadow: 10px 10px 100px cornflowerblue;
+    
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;font-size: large;text-decoration:underline;
+}
